@@ -2,8 +2,9 @@
 
 ## Full Stack Software Developer 
 
-- Currently a ASP.NET developer for the Arizona Department of Transportation (ADOT)
-- I am also on the ADOT reporting team in which I make data reports and write sql stored procs!
+- Currently a Full Stack Software Engineer for Microsoft.
+- Previously an ASP.NET developer for the Arizona Department of Transportation (ADOT)
+- I was also on the ADOT reporting team in which I made data reports and wrote sql stored procs!
 
 ### Connect with me:
 
